@@ -1,0 +1,17 @@
+.rounded-navbar {
+    border-radius: 25px;
+    -webkit-border-radius: 25px;
+    -moz-border-radius: 25px;
+    -ms-border-radius: 25px;
+    -o-border-radius: 25px;
+}
+ .bg-custom {
+    background-color: hsl(210, 65%, 20%); /* Replace with your desired color */
+}
+ .mt-3 {
+    margin-top: 3rem; /* Adjust this value to increase or decrease the space from the top */
+  }
+  .navbar-custom-width {
+    max-width: 90%; /* Adjust this value to increase or decrease the width */
+    margin: auto; /* Centers the navbar */
+  }
